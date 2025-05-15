@@ -1,0 +1,8 @@
+**/modules/
+**/.terraform/
+**/.terraform/**
+**/.terraform.*
+**/*.tfstate
+**/*.swp
+**/*.hcl
+**/*.backup
